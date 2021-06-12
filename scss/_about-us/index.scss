@@ -1,0 +1,14 @@
+.about-us{
+  .decor-part{
+    background-image: url("../images/about_us.png");
+    background-size:cover ;
+  }
+  .info-part{
+    padding: 150px 0;
+    button{
+      padding: 10px 30px;
+      border-radius: 2px;
+     border: solid 1px #e7ad48;
+    }
+  }
+}

@@ -1,0 +1,46 @@
+footer{
+  .page-item{
+    list-style: none;
+
+
+    text-align: center;
+    li{
+      display: inline;
+      padding-right:35px ;
+      text-align: center;
+      a{
+        text-decoration: none;
+        color: black;
+      }
+    }
+  }
+  .tel-item{
+    text-align: center;
+    padding-bottom: 30px;
+    a{
+      text-decoration: none;
+      color: black;
+      font-size: 25px;
+    }
+  }
+  .social-media-item{
+    list-style: none;
+    padding-bottom: 50px;
+
+
+    text-align: center;
+    li{
+      display: inline;
+      padding-right:15px ;
+      text-align: center;
+      a{
+        color: white;
+      }
+    }
+  }
+ .copyright{
+   padding: 15px 0;
+    color: white;
+   background-color: #709dca;
+ }
+  }

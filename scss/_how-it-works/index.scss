@@ -1,0 +1,24 @@
+.how-it-work{
+  padding: 120px 0;
+  text-align: center;
+  .work-item{
+    position: relative;
+    margin-bottom: 80px;
+    .arrow-item-up{
+      position: absolute;
+      top: -20px;
+      right: -68px;
+    }
+    .arrow-item-down{
+      position: absolute;
+      top: 95px;
+      right: -66px;
+    }
+  }
+  button{
+   padding: 10px 20px;
+    background-color: #ffbb42;
+    border :0;
+    color: white;
+  }
+}
